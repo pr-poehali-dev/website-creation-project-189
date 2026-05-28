@@ -4,7 +4,10 @@
 
 @layer base {
   :root {
-    --background: 0 0% 100%;
+    --background: 220 20% 5%;
+    --neon-cyan: #00f5ff;
+    --neon-blue: #0066ff;
+    --neon-purple: #7c3aed;
     --foreground: 222.2 84% 4.9%;
 
     --card: 0 0% 100%;
